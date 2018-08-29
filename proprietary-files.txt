@@ -75,5 +75,5 @@ vendor/lib/libqmiservices.so
 vendor/lib/libqmi.so
 
 # Sensors
-lib/hw/sensors.msm8916.so
+lib/hw/sensors.msm8916.so:lib/hw/sensors.vendor.msm8916.so
 vendor/lib/libcalmodule_gyroscope.so
